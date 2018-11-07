@@ -29,7 +29,7 @@ Date: February 21, 2018
  
 -> Search Algorithms
 
-  => The program uses three search algorithms
+   The program uses three search algorithms
     - Breadth First
     - Depth First
     - A Star 
